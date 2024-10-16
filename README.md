@@ -7,7 +7,7 @@ Um gerador de dados de RPG simples feito com HTML, CSS e JavaScript. Este projet
 
 ## Demonstração
 
-![Demonstração do Gerador de Dados](link-da-imagem-aqui) <!-- Você pode adicionar uma captura de tela do seu projeto -->
+![Demonstração do Gerador de Dados](../RollForAdventure/img/Demonstração%20do%20Gerador%20de%20Dados.png) 
 
 ## Funcionalidades
 
