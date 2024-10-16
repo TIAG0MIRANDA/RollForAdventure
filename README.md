@@ -3,7 +3,7 @@ Rolagem de dados RPG
 
 # Rolagem de Dados de RPG
 
-Um gerador de rolagem dados de RPG simples feito com HTML, CSS e JavaScript. Este projeto permite que os usuários lancem dados comuns em RPGs, como D4, D6, D8, D10, D12 e D20, e visualizem os resultados de forma interativa.
+Um gerador de rolagem dados de RPG simples feito com HTML, CSS e JavaScript. Este projeto permite que os usuários lancem dados comuns em RPGs, como D4, D6, D8, D10, D12, D20, D50 e D100 e visualizem os resultados de forma interativa.
 
 ## Demonstração
 
@@ -11,7 +11,7 @@ Um gerador de rolagem dados de RPG simples feito com HTML, CSS e JavaScript. Est
 
 ## Funcionalidades
 
-- Geração de números aleatórios para diferentes tipos de dados (D4, D6, D8, D10, D12, D20).
+- Geração de números aleatórios para diferentes tipos de dados (D4, D6, D8, D10, D12, D20, D50, D100).
 - Interface de usuário simples e responsiva.
 - Estilização moderna e atraente.
 
