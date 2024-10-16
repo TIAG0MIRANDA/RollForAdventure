@@ -1,9 +1,9 @@
 # RollForAdventure
- Rolagem de dados RPG
+Rolagem de dados RPG
 
-# Gerador de Dados de RPG
+# Rolagem de Dados de RPG
 
-Um gerador de dados de RPG simples feito com HTML, CSS e JavaScript. Este projeto permite que os usuários lancem dados comuns em RPGs, como D4, D6, D8, D10, D12 e D20, e visualizem os resultados de forma interativa.
+Um gerador de rolagem dados de RPG simples feito com HTML, CSS e JavaScript. Este projeto permite que os usuários lancem dados comuns em RPGs, como D4, D6, D8, D10, D12 e D20, e visualizem os resultados de forma interativa.
 
 ## Demonstração
 
