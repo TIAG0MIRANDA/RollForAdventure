@@ -1,3 +1,4 @@
+/* Estilo do corpo */
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(120deg, 
@@ -12,6 +13,7 @@ body {
     margin: 0;
 }
 
+/* Links sociais */
 #social-links {
     position: fixed;
     height: 110px;
@@ -31,6 +33,7 @@ body {
     margin: 2px 4px;
 }
 
+/* Container principal */
 .container {
     text-align: center;
     background-color: #fff;
@@ -39,6 +42,7 @@ body {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Botões de dados */
 .dice-buttons {
     margin: 20px 0;
 }
@@ -59,10 +63,12 @@ button:hover {
     background-color: #7d1d1d;
 }
 
+/* Resultado */
 .result {
     margin-top: 20px;
     font-size: 24px;
 }
+
 .max-result {
     color: #e80c0c; /* Altera a cor para vermelho */
     font-weight: bold; /* Torna o texto em negrito */
