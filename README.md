@@ -25,4 +25,4 @@ Um gerador de rolagem dados de RPG simples feito com HTML, CSS e JavaScript. Est
 
 1. **Clone o repositório** ou faça o download dos arquivos.
    ```bash
-   git clone https://github.com/TIAG0MIRANDA/gerador-dados-rpg.git
+   git clone https://github.com/TIAG0MIRANDA/RollForAdventure
